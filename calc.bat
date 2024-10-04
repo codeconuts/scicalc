@@ -1,7 +1,7 @@
 @echo off
 echo Some guidelines:
 echo.
-echo 1. Units are supported for numbers.
+echo 1. Units are supported for numbers, physical constants are supported.
 echo 2. Numbers with uncertainties are supported.
 echo 3. Numpy is supported, including for numbers with uncertainties
 echo 4. To import number array from excel, call from_excel(), then paste the column of numbers copied from excel, 
